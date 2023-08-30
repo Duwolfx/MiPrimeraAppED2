@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MiPrimeraApp</string>
+    <string name="app_name" translatable="false">MiPrimeraApp</string>
+    <string name="Mensaje_txt">Dies Irae</string>
+    <string name="image_description_txt">BloodBorne Faction Image</string>
 </resources>
